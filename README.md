@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Paulo ,sou  formado em Análise de Sistemas, especializado em criar experiências digitais envolventes e funcionais. Com ampla experiência em WordPress,Elementor, HTML5, CSS, JavaScript, transformo ideias em websites dinâmicos e responsivos.
+Me chamo Paulo, sou  formado em Análise de Sistemas, especializado em criar experiências digitais envolventes e funcionais. Com ampla experiência em WordPress,Elementor, HTML5, CSS, JavaScript, transformo ideias em websites dinâmicos e responsivos.
 
 
 
