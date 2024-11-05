@@ -71,7 +71,7 @@ Me chamo Paulo, sou  formado em Análise de Sistemas, especializado em criar exp
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="130" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PauloPasiam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -79,7 +79,7 @@ Me chamo Paulo, sou  formado em Análise de Sistemas, especializado em criar exp
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPasiam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
