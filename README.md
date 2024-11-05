@@ -36,15 +36,6 @@ Me chamo Paulo, sou  formado em Análise de Sistemas, especializado em criar exp
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -59,9 +50,6 @@ Me chamo Paulo, sou  formado em Análise de Sistemas, especializado em criar exp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" 
 />
-
-
-
 <br/>
 <br/>
 
